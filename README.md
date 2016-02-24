@@ -1,2 +1,5 @@
 # hello-world
-hello-world setup for GitHub
+
+Adding some commentary about myself as part of the basic github setup
+
+
